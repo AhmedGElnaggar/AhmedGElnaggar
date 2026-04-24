@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Elnaggar 👋</h1>
 
 <p align="center">
-  Computer Engineering Student · UAE → USA · Building real things with real data
+  Computer Engineering Student · USA · Building real things with real data
 </p>
 
 <p align="center">
