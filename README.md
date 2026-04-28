@@ -65,5 +65,5 @@ Full-stack transaction processing system with **real-time Kafka event streaming*
 ---
 
 <p align="center">
-  <i>Currently seeking software engineering internships · Open to opportunities in backend, data, and systems engineering</i>
+  <i>Currently seeking  internships · Open to opportunities in backend, data, and systems engineering</i>
 </p>
