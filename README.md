@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed Elnaggar 👋</h1>
+<h1 align="center">Hi, I'm Ahmed Elnaggar </h1>
 
 <p align="center">
   Computer Engineering Student · USA · Building real things with real data
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 #### ✈ [AE Flight Tracker](https://github.com/AhmedGElnaggar/Flight-tracker)
 > Python · Flask · Leaflet.js · OpenSky API · AviationStack API
