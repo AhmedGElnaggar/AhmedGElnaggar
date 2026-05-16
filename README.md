@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -28,28 +28,28 @@
 
 ###  Projects
 
-#### ✈ [AE Flight Tracker](https://github.com/AhmedGElnaggar/Flight-tracker)
+####  [AE Flight Tracker](https://github.com/AhmedGElnaggar/Flight-tracker)
 > Python · Flask · Leaflet.js · OpenSky API · AviationStack API
 
 Real-time flight tracking web app displaying **10,000+ live flights** on an interactive world map. Features live flight status tracking, animated progress bars, airline logos, and server-side caching.
 
 ---
 
-#### 📊 [Quantitative Analysis Tool](https://github.com/AhmedGElnaggar/Quant-analysis)
+####  [Quantitative Analysis Tool](https://github.com/AhmedGElnaggar/Quant-analysis)
 > Python · Tkinter · YFinance · Scikit-learn · Pandas · Matplotlib
 
 Bloomberg Terminal-inspired desktop app for financial market analysis. Includes **ML price prediction** (Linear Regression + Random Forest, up to 98% accuracy), strategy backtesting (MA Crossover, RSI, Buy & Hold), and a live portfolio tracker with bell notifications.
 
 ---
 
-#### 💳 [Financial Transaction System](https://github.com/AhmedGElnaggar/transaction-system)
+####  [Financial Transaction System](https://github.com/AhmedGElnaggar/transaction-system)
 > Java · Spring Boot · Apache Kafka · H2 Database · REST APIs
 
 Full-stack transaction processing system with **real-time Kafka event streaming**, Spring Security authentication, and a dark/light mode UI. Built with a layered Controller → Service → Repository architecture.
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - 🏦 **JPMorgan Chase Software Engineering Virtual Experience** — Forage, March 2025
 
